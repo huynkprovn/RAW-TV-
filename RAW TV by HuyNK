@@ -4,7 +4,7 @@ http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV2 HD
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="Quoc Te",HBO HD
-http://103.13.30.174:1999/elive/hbo/chengye.m3u8
+http://hlscache.fptplay.net.vn/xskt/todaytv_hls.smil/chunklist_b300000.m3u8
 
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv3.smil/chunklist_b1500000.m3u8
