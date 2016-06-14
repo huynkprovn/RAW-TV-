@@ -5,8 +5,8 @@ http://xmiolive.e14538a7.viettel-cdn.vn/vtv1.smil/chunklist_b1500000.m3u8
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv2.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="Hay Xem",TODAY TV
 http://tv.tivi8k.net/stream-new-fpt/vtc7/playlist.m3u8
-#EXTINF:-1 group-title="Hay Xem",HBO
-sop://broker.sopcast.com:3912/259497
+#EXTINF:-1 group-title="Hay Xem",XEM EURO
+https://r5---sn-i3b7kn7s.gvt1.com/videoplayback/id/1186926f9a93cdfc/itag/43/source/gfp_video_ads/requiressl/yes/acao/yes/ip/113.161.80.58/ipbits/0/expire/1465937019/sparams/acao,expire,id,ip,ipbits,ipbypass,itag,mm,mn,ms,mv,nh,pcm2cms,pl,requiressl,source/signature/6E363E9D730C4ACD6DB7AD455E7FE26FF46EA033.6FFFC6018292A881281B836A10DF7343867532F1/key/cms1/pl/19/req_id/5e6b3cff9100a3ee/redirect_counter/2/cms_redirect/yes/ipbypass/yes/mm/30/mn/sn-i3b7kn7s/ms/nxu/mt/1465915322/mv/m/nh/IgpwcjAyLmhrZzA4KgkxMjcuMC4wLjE?file=file.webm
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv3.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD L2
