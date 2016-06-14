@@ -8,7 +8,9 @@ http://tv.tivi8k.net/stream-new-fpt/vtc7/playlist.m3u8
 #EXTINF:-1 group-title="Hay Xem",XEM EURO
 http://live.bongdaf.tv/9c70e324e935fec19b2da6074afb00d41465940571/104/chunklist.m3u8
 #EXTINF:-1 group-title="Hay Xem",XEM EURO2
-http://198.179.30.101/live/14.low.stream/playlist.m3u8
+http://live.bongdaf.tv/54b9deb2c2d275fda4a88c38f7d4ce311465938431/104/chunklist.m3u8
+#EXTINF:-1 group-title="Hay Xem",XEM EURO3
+http://live-1165.gv2.edge.filmon.com/live/11.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3edb910c53851bdee5042509cc0117c5963ea92b9a8ddffaa86281ac32fdc9a7f236c3da040ff620a4dbf7b1ab51a4339bd48cd551ccd89e349aa54fe533039986a697bf985cb6638fbb15899cc6b83d03a26b0a7b9fb7554c42a44dc820596437f84393a5d598735ff4e774bc27cd6e63ef37cc312acca6a
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD
 http://xmiolive.e14538a7.viettel-cdn.vn/vtv3.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 group-title="VTV-VTVcab",VTV3 HD L2
